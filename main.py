@@ -90,9 +90,3 @@ class Solver:
         f.close()
         print(output)
 
-
-# if __name__ == '__main__':
-#     master = Solver([Solver(), Solver(), Solver()],
-#                     "C:/Users/gladk/Desktop/input.txt",
-#                     "C:/Users/gladk/Desktop/output.txt")
-#     master.solve()
